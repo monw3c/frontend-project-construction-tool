@@ -1,6 +1,6 @@
 前端项目构建工具
 
-how to do?
+执行：
 
 npm install h5_init
 
